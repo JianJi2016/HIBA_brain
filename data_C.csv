@@ -1,0 +1,37 @@
+individual,group,value,barwith
+Control,Movement speed,6.23,1.27
+Com1,Movement speed,5.05,0.96
+Com2,Movement speed,4.66,1.14
+Com3,Movement speed,5.55,1.83
+Com4,Movement speed,6.13,2
+Est  ,Movement speed,4.6,0.96
+Control,Movement time,7.02,1.056833333
+Com1,Movement time,6.291333333,0.499833333
+Com2,Movement time,5.562666667,0.947333333
+Com3,Movement time,6.353166667,0.921666667
+Com4,Movement time,6.495666667,0.744666667
+Est  ,Movement time,5.430833333,0.860666667
+Control,Central area residence time,9.8,2.34
+Com1,Central area residence time,11.35,3.14
+Com2,Central area residence time,17.81,5.14
+Com3,Central area residence time,12.65,2.47
+Com4,Central area residence time,12.14,4.4
+Est  ,Central area residence time,20.63,9.01
+Control,12 h sleep duration,4.8315,0.525666667
+Com1,12 h sleep duration,5.791333333,0.457333333
+Com2,12 h sleep duration,6.238833333,0.408
+Com3,12 h sleep duration,5.046666667,0.43
+Com4,12 h sleep duration,4.857833333,0.498
+Est  ,12 h sleep duration,6.735,0.567166667
+Control,incubation period,4.54,0.75
+Com1,incubation period,4.33,0.96
+Com2,incubation period,3.6,0.37
+Com3,incubation period,4.7,0.97
+Com4,incubation period,3.61,0.49
+Est  ,incubation period,2.81,0.57
+Control,sleep time,17.92,4.57
+Com1,sleep time,33.51,10.75
+Com2,sleep time,34.73,10.63
+Com3,sleep time,21.81,10.63
+Com4,sleep time,15.79,3.85
+Est  ,sleep time,66.37,21.05

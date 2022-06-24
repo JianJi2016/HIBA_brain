@@ -1,0 +1,12 @@
+Name,Pvalues,FDR,LDAscore
+Muribaculum,0.11719,0.2124,5.96
+Lactobacillus,0.016294,0.052502,5.81
+Bacteroides,0.4647,0.49912,5.09
+Staphylococcus,0.20869,0.356,4.95
+Akkermansia,0.4647,0.49912,4.06
+Absiella,0.25059,0.36336,3.56
+Parabacteroides,0.75402,0.75402,3.37
+Butyrivibrio,0.047202,0.11692,-4.96
+Flavonifractor,0.016294,0.052502,-5.09
+Alistipes,0.34721,0.47948,-5.28
+Lachnoclostridium,0.0090234,0.052502,-5.97

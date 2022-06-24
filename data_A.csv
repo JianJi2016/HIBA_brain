@@ -1,0 +1,37 @@
+individual,group,value,barwith
+Control,Movement speed,5.26,0.66
+A,Movement speed,5.35,0.69
+B,Movement speed,4.08,0.46
+C,Movement speed,5.58,0.92
+D,Movement speed,4.3,0.31
+Est  ,Movement speed,3.94,0.81
+Control,Movement time,5.788833333,0.832
+A,Movement time,5.671166667,0.679666667
+B,Movement time,4.729833333,0.3265
+C,Movement time,6.431333333,0.836666667
+D,Movement time,5.046833333,0.509
+Est  ,Movement time,4.242166667,1.046833333
+Control,Central area residence time,12.55,5.18
+A,Central area residence time,13.5,8.25
+B,Central area residence time,18.2,7.82
+C,Central area residence time,15.24,4.41
+D,Central area residence time,15.52,7.19
+Est  ,Central area residence time,22.93,8.33
+Control,12 h sleep duration,4.0035,0.533833333
+A,12 h sleep duration,4.667166667,0.412166667
+B,12 h sleep duration,5.874,0.385166667
+C,12 h sleep duration,4.530666667,0.405
+D,12 h sleep duration,4.489166667,0.383333333
+Est  ,12 h sleep duration,6.707333333,0.450166667
+Control,incubation period,4.91,0.93
+A,incubation period,4.01,0.97
+B,incubation period,3.7,0.42
+C,incubation period,4.64,1.44
+D,incubation period,4.43,0.75
+Est  ,incubation period,3.64,0.8
+Control,sleep time,15.72,5.32
+A,sleep time,19.67,5.23
+B,sleep time,25.39,7.17
+C,sleep time,14.49,5.42
+D,sleep time,20.83,6.37
+Est  ,sleep time,55.71,10.9

@@ -1,0 +1,31 @@
+individual,group,value,barwith
+Control,Movement speed,4.63,0.94
+B-1 ,Movement speed,3.89,1.04
+B-2 ,Movement speed,4.16,0.95
+B-3 ,Movement speed,4.2,0.79
+Est  ,Movement speed,3.39,0.5
+Control,Movement time,5.597333333,0.911333333
+B-1 ,Movement time,4.636333333,0.881
+B-2 ,Movement time,4.970833333,1.115666667
+B-3 ,Movement time,4.887,0.7805
+Est  ,Movement time,4.086833333,0.648833333
+Control,Central area residence time,10.73,2.11
+B-1 ,Central area residence time,16.93,7.64
+B-2 ,Central area residence time,10.6,3.01
+B-3 ,Central area residence time,10.4,2
+Est  ,Central area residence time,19.36,8.77
+Control,12 h sleep duration,4.270333333,0.615166667
+B-1 ,12 h sleep duration,5.8245,0.651666667
+B-2 ,12 h sleep duration,4.782166667,0.426166667
+B-3 ,12 h sleep duration,3.977,0.419833333
+Est  ,12 h sleep duration,6.3955,0.338166667
+Control,incubation period,4.86,0.98
+B-1 ,incubation period,3.79,0.56
+B-2 ,incubation period,4.84,1.07
+B-3 ,incubation period,4.64,1
+Est  ,incubation period,3.53,0.54
+Control,sleep time,16.32,2.94
+B-1 ,sleep time,24.33,6.03
+B-2 ,sleep time,17.51,5.85
+B-3 ,sleep time,16.99,7.11
+Est  ,sleep time,62.23,9.88
